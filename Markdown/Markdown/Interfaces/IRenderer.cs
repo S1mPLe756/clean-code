@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace Markdown.Interfaces
 {
-    internal interface IRenderer
+    public interface IRenderer
     {
-        public string Render(List<Token> tokens);
+        public string Render(List<Line> lines);
     }
 }

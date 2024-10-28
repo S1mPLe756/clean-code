@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Markdown\\Markdown\\Markdown.csproj": {}
+    "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Markdown.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Markdown\\Markdown\\Markdown.csproj": {
+    "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Markdown.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Markdown\\Markdown\\Markdown.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Markdown.csproj",
         "projectName": "Markdown",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Markdown\\Markdown\\Markdown.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Markdown.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Markdown\\Markdown\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

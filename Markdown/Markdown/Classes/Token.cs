@@ -9,12 +9,12 @@ namespace Markdown.Classes
     public class Token
     {
         public string Word { get; set; }
-        public List<Tag> Tokens { get; set; }
+        public List<Tag> Tags { get; set; }
 
         public Token(string word, List<Tag> tags)
         {
             Word = word;
-            Tokens = tags;
+            Tags = tags;
         }
     }
 }

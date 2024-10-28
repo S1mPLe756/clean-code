@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace Markdown.Interfaces
 {
-    internal interface IParser
+    public interface IParser<T>
     {
-        public List<Token> Parse(string text);
+        List<T> Parse(string text);
     }
 }
