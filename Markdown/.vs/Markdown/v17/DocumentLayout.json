@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A753E1E-B3A8-426A-9363-02CF95026F00}|MarkdownTests\\MarkdownTests.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdowntests\\mdprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A753E1E-B3A8-426A-9363-02CF95026F00}|MarkdownTests\\MarkdownTests.csproj|solutionrelative:markdowntests\\mdprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF40DCBF-5D02-4288-8A43-56B171AC40A4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF40DCBF-5D02-4288-8A43-56B171AC40A4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\wordparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\wordparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\mdprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\mdprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\lineparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\lineparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\tagtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\tagtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\globaltag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\globaltag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\interfaces\\iparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\interfaces\\iparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:56:27.069Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MdProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\MdProcessor.cs",
+              "RelativeDocumentMoniker": "Markdown\\MdProcessor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\MdProcessor.cs",
+              "RelativeToolTip": "Markdown\\MdProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:49:39.325Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Renderer.cs",
+              "RelativeDocumentMoniker": "Markdown\\Classes\\Renderer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Renderer.cs",
+              "RelativeToolTip": "Markdown\\Classes\\Renderer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:37:16.314Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LineParser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\LineParser.cs",
+              "RelativeDocumentMoniker": "Markdown\\Classes\\LineParser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\LineParser.cs",
+              "RelativeToolTip": "Markdown\\Classes\\LineParser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:02:23.997Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordParser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\WordParser.cs",
+              "RelativeDocumentMoniker": "Markdown\\Classes\\WordParser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\WordParser.cs",
+              "RelativeToolTip": "Markdown\\Classes\\WordParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:13:16.728Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MdProcessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\MarkdownTests\\MdProcessorTests.cs",
+              "RelativeDocumentMoniker": "MarkdownTests\\MdProcessorTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\MarkdownTests\\MdProcessorTests.cs*",
+              "RelativeToolTip": "MarkdownTests\\MdProcessorTests.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwEcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:36:55.644Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Tag.cs",
+              "RelativeDocumentMoniker": "Markdown\\Classes\\Tag.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Tag.cs",
+              "RelativeToolTip": "Markdown\\Classes\\Tag.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwBUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:49:39.316Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalTag.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\GlobalTag.cs",
+              "RelativeDocumentMoniker": "Markdown\\Classes\\GlobalTag.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\GlobalTag.cs",
+              "RelativeToolTip": "Markdown\\Classes\\GlobalTag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:09:35.54Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TagType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\TagType.cs",
+              "RelativeDocumentMoniker": "Markdown\\Classes\\TagType.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\TagType.cs",
+              "RelativeToolTip": "Markdown\\Classes\\TagType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:13:44.054Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Line.cs",
+              "RelativeDocumentMoniker": "Markdown\\Classes\\Line.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Line.cs",
+              "RelativeToolTip": "Markdown\\Classes\\Line.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:17:52.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Token.cs",
+              "RelativeDocumentMoniker": "Markdown\\Classes\\Token.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Token.cs",
+              "RelativeToolTip": "Markdown\\Classes\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:16:43.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IParser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Interfaces\\IParser.cs",
+              "RelativeDocumentMoniker": "Markdown\\Interfaces\\IParser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Interfaces\\IParser.cs",
+              "RelativeToolTip": "Markdown\\Interfaces\\IParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:59:12.467Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

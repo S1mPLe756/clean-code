@@ -16,7 +16,10 @@
       },
       "Markdown/1.0.0": {
         "runtime": {
-          "Markdown.dll": {}
+          "Markdown.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

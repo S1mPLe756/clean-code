@@ -95,9 +95,9 @@ C:\Users\User\source\repos\clean-code\Markdown\MarkdownTests\obj\Debug\net8.0\Ma
 C:\Users\User\source\repos\clean-code\Markdown\MarkdownTests\obj\Debug\net8.0\MarkdownTests.AssemblyInfo.cs
 C:\Users\User\source\repos\clean-code\Markdown\MarkdownTests\obj\Debug\net8.0\MarkdownTests.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\clean-code\Markdown\MarkdownTests\obj\Debug\net8.0\MarkdownTests.sourcelink.json
-C:\Users\User\source\repos\clean-code\Markdown\MarkdownTests\obj\Debug\net8.0\MarkdownTests.csproj.CopyComplete
 C:\Users\User\source\repos\clean-code\Markdown\MarkdownTests\obj\Debug\net8.0\MarkdownTests.dll
 C:\Users\User\source\repos\clean-code\Markdown\MarkdownTests\obj\Debug\net8.0\refint\MarkdownTests.dll
 C:\Users\User\source\repos\clean-code\Markdown\MarkdownTests\obj\Debug\net8.0\MarkdownTests.pdb
 C:\Users\User\source\repos\clean-code\Markdown\MarkdownTests\obj\Debug\net8.0\MarkdownTests.genruntimeconfig.cache
 C:\Users\User\source\repos\clean-code\Markdown\MarkdownTests\obj\Debug\net8.0\ref\MarkdownTests.dll
+C:\Users\User\source\repos\clean-code\Markdown\MarkdownTests\obj\Debug\net8.0\Markdown.33FF9C72.Up2Date
