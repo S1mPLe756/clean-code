@@ -78,5 +78,93 @@ namespace MarkdownTests
 
             Assert.AreEqual(expected, result);
         }
+
+        [Test]
+        public void SingleInsideDouble_ShouldWork()
+        {
+            var input = "__text _text text_ text__";
+            var expected = "<strong>text <em>text text</em> text</strong>";
+
+            string result = markdownProcessor.GetHtml(input);
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void DoubleInsideSingle_ShouldntWork()
+        {
+            var input = "_text __text text__ text_";
+            var expected = "_text __text text__ text_";
+
+            string result = markdownProcessor.GetHtml(input);
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void Intersection_ShouldntWork()
+        {
+            var input = "_text __text text_ text__";
+            var expected = "_text __text text_ text__";
+
+            string result = markdownProcessor.GetHtml(input);
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void InDifferentWords_ShouldntWork()
+        {
+            var input = "_text te_xt tex__t t_ext";
+            var expected = "_text te_xt tex__t t_ext";
+
+            string result = markdownProcessor.GetHtml(input);
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void UnpairedTags_ShouldntWork()
+        {
+            var input = "_text__";
+            var expected = "_text__";
+
+            string result = markdownProcessor.GetHtml(input);
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void EmptyString_ShouldAsEmpty()
+        {
+            var input = "____";
+            var expected = "____";
+
+            string result = markdownProcessor.GetHtml(input);
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void AfterBeginningUndescore_ShouldNonBlankSymbol()
+        {
+            var input = "text_ text_";
+            var expected = "text_ text_";
+
+            string result = markdownProcessor.GetHtml(input);
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void AfterEndingUndescore_ShouldNonBlankSymbol()
+        {
+            var input = "_text _text";
+            var expected = "_text _text";
+
+            string result = markdownProcessor.GetHtml(input);
+
+            Assert.AreEqual(expected, result);
+        }
     }
 }

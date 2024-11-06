@@ -11,36 +11,36 @@
       "RelativeMoniker": "D:0:0:{FF40DCBF-5D02-4288-8A43-56B171AC40A4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\wordparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\wordparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\mdprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\mdprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\lineparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\lineparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\tagtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\tagtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\tagtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\tagtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\globaltag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\globaltag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\wordparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\wordparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\lineparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\lineparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\classes\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|solutionrelative:markdown\\classes\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E94ACBD7-0C30-4C83-9A9D-FD79FD53FB57}|Markdown\\Markdown.csproj|c:\\users\\user\\source\\repos\\clean-code\\markdown\\markdown\\interfaces\\iparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T12:56:27.069Z",
               "IsPinned": true,
@@ -76,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MdProcessor.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\MdProcessor.cs",
               "RelativeDocumentMoniker": "Markdown\\MdProcessor.cs",
@@ -90,20 +90,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Renderer.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Renderer.cs",
               "RelativeDocumentMoniker": "Markdown\\Classes\\Renderer.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Renderer.cs",
               "RelativeToolTip": "Markdown\\Classes\\Renderer.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T10:37:16.314Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "LineParser.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\LineParser.cs",
               "RelativeDocumentMoniker": "Markdown\\Classes\\LineParser.cs",
@@ -112,17 +113,18 @@
               "ViewState": "AgIAAAIAAAAAAAAAAAAawBIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T10:02:23.997Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "WordParser.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\WordParser.cs",
               "RelativeDocumentMoniker": "Markdown\\Classes\\WordParser.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\WordParser.cs",
               "RelativeToolTip": "Markdown\\Classes\\WordParser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABABAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T09:13:16.728Z",
               "IsPinned": true,
@@ -134,9 +136,9 @@
               "Title": "MdProcessorTests.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\MarkdownTests\\MdProcessorTests.cs",
               "RelativeDocumentMoniker": "MarkdownTests\\MdProcessorTests.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\MarkdownTests\\MdProcessorTests.cs*",
-              "RelativeToolTip": "MarkdownTests\\MdProcessorTests.cs*",
-              "ViewState": "AgIAADcAAAAAAAAAAAAqwEcAAABAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\MarkdownTests\\MdProcessorTests.cs",
+              "RelativeToolTip": "MarkdownTests\\MdProcessorTests.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAUwJ8AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T12:36:55.644Z",
               "IsPinned": true,
@@ -144,42 +146,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Tag.cs",
               "RelativeDocumentMoniker": "Markdown\\Classes\\Tag.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Tag.cs",
               "RelativeToolTip": "Markdown\\Classes\\Tag.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAMwBUAAABKAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwBUAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T09:49:39.316Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "GlobalTag.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\GlobalTag.cs",
               "RelativeDocumentMoniker": "Markdown\\Classes\\GlobalTag.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\GlobalTag.cs",
               "RelativeToolTip": "Markdown\\Classes\\GlobalTag.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABbAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T06:09:35.54Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "TagType.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\TagType.cs",
               "RelativeDocumentMoniker": "Markdown\\Classes\\TagType.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\TagType.cs",
               "RelativeToolTip": "Markdown\\Classes\\TagType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T10:13:44.054Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -195,15 +200,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Line.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Line.cs",
               "RelativeDocumentMoniker": "Markdown\\Classes\\Line.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clean-code\\Markdown\\Markdown\\Classes\\Line.cs",
               "RelativeToolTip": "Markdown\\Classes\\Line.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:17:52.62Z"
+              "WhenOpened": "2024-10-23T15:17:52.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

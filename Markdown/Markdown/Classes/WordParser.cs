@@ -125,20 +125,6 @@ namespace Markdown.Classes
             return tags;
         }
 
-        private bool NumberCheck(string mdTag, string word, int index)
-        {
-            if (index - 1 >= 0 && char.IsDigit(word[index - 1]))
-            {
-                return false;
-            }
-            if (index + mdTag.Length < word.Length && char.IsDigit(word[index + mdTag.Length]))
-            {
-                return false;
-            }
-
-            return true;
-        }
-
         private List<Tag> CheckTagOrder(List<Tag> tags, string tagOrderTemplate)
         {
             var result = new List<Tag>();
@@ -185,6 +171,20 @@ namespace Markdown.Classes
             if (index + 1 < word.Length && IsTag(symbol + word[index + 1]))
                 return symbol + word[index + 1];
             return symbol;
+        }
+
+        private bool NumberCheck(string mdTag, string word, int index)
+        {
+            if (index - 1 >= 0 && char.IsDigit(word[index - 1]))
+            {
+                return false;
+            }
+            if (index + mdTag.Length < word.Length && char.IsDigit(word[index + mdTag.Length]))
+            {
+                return false;
+            }
+
+            return true;
         }
 
         private string GetShortEntry(List<Tag> tags, int index, int amount)
