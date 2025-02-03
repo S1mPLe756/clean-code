@@ -2,5 +2,7 @@ Markdown/.vs/Markdown/FileContentIndex/
 bin/
 obj/
 Properties/
-*.csproj
 *.csproj.user
+**/bin
+**/obj
+**/.vs

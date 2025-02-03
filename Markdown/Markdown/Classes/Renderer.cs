@@ -25,7 +25,7 @@ namespace Markdown.Classes
                 var tokens = line.Tokens;
                 htmlText.Add(GetHtmlLine(tokens));
             }
-            return string.Join('\n', htmlText);
+            return string.Join('\n', lines.Select(x => GetHtmlLine(x.Tokens)).ToArray());// htmlText);
         }
 
         private string GetHtmlLine(List<Token> tokens)
@@ -36,7 +36,7 @@ namespace Markdown.Classes
                 var word = GetHtmlWord(token);
                 result.Add(word);
             }
-            if (result.Count > 0 && result[0].Equals("<h1>"))
+            if (result.Count > 0 && result[0].Equals("<h1>", StringComparison.Ordinal))
                 result.Add("</h1>");
 
             return string.Join(' ', result);

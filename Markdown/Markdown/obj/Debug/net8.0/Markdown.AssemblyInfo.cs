@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Markdown")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3be0b44a5c1ad2dc9a093be03824063b19416aee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29709aa74d4676cd00001eda9d98bbd13b8129d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Markdown")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Markdown")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

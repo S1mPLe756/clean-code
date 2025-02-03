@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             var markdownProcessor = new MdProcessor();
-            var text = "_text_";
+            var text = "__t_e_xt__";
             var result = markdownProcessor.GetHtml(text);
             Console.WriteLine(result);
         }
