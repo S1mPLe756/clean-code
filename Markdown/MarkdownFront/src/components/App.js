@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { connect } from "react-redux";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -11,7 +10,6 @@ import Profile from "./auth/Profile";
 import NavigateComponent from "../helpers/navigate";
 import { ToastContainer } from "react-toastify";
 import NavBar from "./navBar";
-import Users from "./admin/Users";
 import Document from "./documents/Document";
 import Documents from "./documents/Documents";
 import AddDocument from "./documents/AddDocument";
@@ -44,11 +42,7 @@ class App extends Component {
               path="/profile"
               element={<NavigateComponent Component={Profile} />}
             />
-            <Route
-              exact
-              path="/users"
-              element={<NavigateComponent Component={Users} />}
-            />
+
             <Route
               exact
               path="/documents"
